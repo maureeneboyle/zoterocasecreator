@@ -22,8 +22,8 @@ full behavior can be read before use.
 Requires a paid Claude plan (Pro, Max, Team, or Enterprise) with code execution
 enabled.
 
-1. Download the matching zip from this repository — `cases-to-zotero.zip` or
-   `extract-case-citations.zip`.
+1. Download the matching zip from the `dist/` folder — `dist/cases-to-zotero.zip`
+   or `dist/extract-case-citations.zip`.
 2. In Claude, go to **Settings > Capabilities** (the Skills section, also shown as
    **Customize > Skills**) and upload the zip.
 3. Once enabled on your account, the skill is available in both claude.ai and
